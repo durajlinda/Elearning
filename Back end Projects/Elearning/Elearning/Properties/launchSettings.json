@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "Elearning": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:60875;http://localhost:60876"
+    }
+  }
+}
